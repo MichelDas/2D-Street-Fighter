@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{7783422F-2919-D3B7-9F45-373C1B2EB559}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Level/LevelManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Level/LevelManager.cs" Line="6" Column="1" />
+      <File FileName="Assets/Scripts/Level/LevelUI.cs" />
+      <File FileName="Assets/Scripts/MainMenu/CharacterManager.cs" />
+      <File FileName="Assets/Scripts/Players/InputHandler.cs" />
+      <File FileName="Assets/Scripts/MainMenu/SelectScreenManager.cs" />
+      <File FileName="Assets/Scripts/MainMenu/PotraitInfo.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="35cdcbac-1edb-4eca-8066-939e1a754218" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
