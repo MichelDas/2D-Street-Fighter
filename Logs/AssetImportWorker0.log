@@ -2795,3 +2795,22 @@ System memory in use after: 172.1 MB.
 Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2683.
 Total: 3.321537 ms (FindLiveObjects: 0.474617 ms CreateObjectMapping: 0.103065 ms MarkObjects: 2.548304 ms  DeleteObjects: 0.192410 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 3633.523252 seconds.
+  path: Assets/Sprites/Ryurender.png
+  artifactKey: Guid(e7d559082de29402792bcf17c5299995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Ryurender.png using Guid(e7d559082de29402792bcf17c5299995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b433b5a97d207ed8bb4944e00d8d3211') in 0.365334 seconds
+  Import took 0.383283 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.86 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.9 MB.
+System memory in use after: 172.9 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2686.
+Total: 8.039406 ms (FindLiveObjects: 0.875006 ms CreateObjectMapping: 0.284127 ms MarkObjects: 6.669068 ms  DeleteObjects: 0.208489 ms)
+
