@@ -1,8 +1,10 @@
 ﻿<Properties StartupConfiguration="{220557A4-D676-5F86-31E8-C54B13B18AB1}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/OpenDamageCollider.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Players/StateManager.cs">
     <Files>
-      <File FileName="Assets/Scripts/Players/AICharacter.cs" Line="67" Column="37" />
+      <File FileName="Assets/Scripts/Players/AICharacter.cs" Line="93" Column="22" />
       <File FileName="Assets/OpenDamageCollider.cs" Line="8" Column="20" />
+      <File FileName="Assets/Scripts/Players/HandleAnimation.cs" Line="60" Column="48" />
+      <File FileName="Assets/Scripts/Players/StateManager.cs" Line="67" Column="44" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
