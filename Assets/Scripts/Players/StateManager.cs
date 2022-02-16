@@ -90,6 +90,7 @@ public class StateManager : MonoBehaviour
         gettingHit = false;
         currentlyAttacking = false;
         dontMove = false; // means can move
+        hitAnimationFlag = false;
     }
 
 
@@ -103,6 +104,7 @@ public class StateManager : MonoBehaviour
         movementColliders[index].SetActive(true);
     }
 
+    public bool hitAnimationFlag = false;
     public void TakeDamage(int damage, HandleDamageColliders.DamageType damageType)
     {
         if (!gettingHit)
@@ -125,11 +127,14 @@ public class StateManager : MonoBehaviour
 
             health -= damage;
             gettingHit = true;
+            hitAnimationFlag = true;
         }
     }
 
     IEnumerator CloseImmortality(float timer)
     {
+        yield return new WaitForSeconds(0.01f);
+        hitAnimationFlag = false;
         yield return new WaitForSeconds(timer);
         gettingHit = false;
     }

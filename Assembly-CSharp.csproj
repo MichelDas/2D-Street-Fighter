@@ -65,6 +65,7 @@
     <Compile Include="Assets/Scripts/Players/HandleDamageColliders.cs" />
     <Compile Include="Assets/Scripts/Utilities/Shake.cs" />
     <Compile Include="Assets/Scripts/MainMenu/SelectScreenManager.cs" />
+    <Compile Include="Assets/Scripts/Players/AICharacter.cs" />
     <Compile Include="Assets/Scripts/Players/StateManager.cs" />
     <Compile Include="Assets/Scripts/Utilities/Perlin.cs" />
     <Compile Include="Assets/Scripts/Level/LevelManager.cs" />
@@ -74,7 +75,9 @@
     <Compile Include="Assets/Scripts/MainMenu/CharacterManager.cs" />
     <Compile Include="Assets/Scripts/Players/HandleAnimation.cs" />
     <Compile Include="Assets/Scripts/Level/MySceneManager.cs" />
-    <Compile Include="Assets/Scripts/Players/AICharacter.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets/Sounds/about.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
