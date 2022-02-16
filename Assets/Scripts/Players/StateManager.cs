@@ -36,6 +36,8 @@ public class StateManager : MonoBehaviour
 
     public GameObject[] movementColliders;
 
+    public bool SpecialAttack { get; internal set; }
+
 
     // Start is called before the first frame update
     void Start()

@@ -148,6 +148,7 @@ GameObject:
   - component: {fileID: 5522619112003340508}
   - component: {fileID: 4472879802075463864}
   - component: {fileID: 6984850292426055736}
+  - component: {fileID: -849033748784721481}
   m_Layer: 8
   m_Name: Fighter Object 3
   m_TagString: Untagged
@@ -294,6 +295,26 @@ MonoBehaviour:
   damageCollidersRight:
   - {fileID: 190602}
   - {fileID: 199000}
+--- !u!114 &-849033748784721481
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 126410}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcf135e4fe4c042a5b7f3a649b42fb3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemyStates: {fileID: 0}
+  changeStateTolerance: 3
+  normalRate: 1
+  closeRate: 0.5
+  blockRate: 1.5
+  aiStateLife: 1
+  JumpRate: 1
+  attackPatterns: []
 --- !u!1 &130414
 GameObject:
   m_ObjectHideFlags: 0
