@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{220557A4-D676-5F86-31E8-C54B13B18AB1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Players/StateManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Players/AICharacter.cs" Line="343" Column="20" />
+      <File FileName="Assets/OpenDamageCollider.cs" Line="8" Column="20" />
+      <File FileName="Assets/Scripts/Players/HandleAnimation.cs" Line="27" Column="9" />
+      <File FileName="Assets/Scripts/Players/StateManager.cs" Line="136" Column="39" />
+      <File FileName="Assets/Scripts/Players/DoDamage.cs" Line="25" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="db441d74-1372-442e-9f10-b691ef99eb64" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

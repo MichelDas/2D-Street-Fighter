@@ -24,8 +24,7 @@ public class HandleAnimation : MonoBehaviour
         // getting the dontmove from animator parameter
         //  and setting is in statemanager
         states.dontMove = anim.GetBool("DontMove");
-
-        anim.SetBool("TakesHit", states.gettingHit);
+        anim.SetBool("TakesHit", states.hitAnimationFlag);
         anim.SetBool("OnAir", !states.onGround);
         anim.SetBool("Crouch", states.crouch);
 

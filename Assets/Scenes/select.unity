@@ -499,6 +499,10 @@ PrefabInstance:
       propertyPath: characterId
       value: fighter1
       objectReference: {fileID: 0}
+    - target: {fileID: 11460908, guid: 21ffc5bcda68d014884b083688537456, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -6702844310995703756, guid: 29632a69380784bd6a9d66d29aa66d91, type: 3}
     - target: {fileID: 11462852, guid: 21ffc5bcda68d014884b083688537456, type: 3}
       propertyPath: m_Color.b
       value: 0.34256056
@@ -514,6 +518,14 @@ PrefabInstance:
     - target: {fileID: 11462852, guid: 21ffc5bcda68d014884b083688537456, type: 3}
       propertyPath: m_RaycastTarget
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22469622, guid: 21ffc5bcda68d014884b083688537456, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0.00001955
+      objectReference: {fileID: 0}
+    - target: {fileID: 22469622, guid: 21ffc5bcda68d014884b083688537456, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.00000023842
       objectReference: {fileID: 0}
     - target: {fileID: 22475656, guid: 21ffc5bcda68d014884b083688537456, type: 3}
       propertyPath: m_Pivot.x
