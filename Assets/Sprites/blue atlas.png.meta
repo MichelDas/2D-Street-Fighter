@@ -99,6 +99,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -109,7 +110,7 @@ TextureImporter:
     serializedVersion: 2
     filterMode: 0
     aniso: 16
-    mipBias: -100
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -688,6 +689,32 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Punch B: 21300026
+      Kick 1: 21300028
+      Jump Attack 1: 21300038
+      Punch A 2: 21300024
+      Down: 21300032
+      Walk 1: 21300004
+      Crouch: 21300010
+      Grapple 1: 21300042
+      Blocking: 21300018
+      Crouch Attack 2: 21300036
+      Grapple 3: 21300046
+      Grapple 2: 21300044
+      On Air: 21300014
+      Hit: 21300048
+      Walk 2: 21300006
+      Blocking Crouch: 21300020
+      Crouch Attack 1: 21300034
+      Idle 2: 21300002
+      Punch A 1: 21300022
+      Walk 3: 21300008
+      Idle 1: 21300000
+      Jump: 21300012
+      Kick 2: 21300030
+      Falling: 21300016
+      Jump Attack 2: 21300040
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
